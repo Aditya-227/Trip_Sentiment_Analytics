@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="assets/zingbus_logo.png" alt="Zingbus Logo" width="160"/>
   <h1>🚌 Trip Experience & Feedback Sentiment Analytics</h1>
@@ -11,9 +12,10 @@
 ---
 
 ### 🖼️ **Repository Banner**
-> *(You can replace this with a real banner later — recommended size: 1200x400px)*  
-> Example: `assets/banner.png`  
-> A clean, professional header image with your name, project title, and color gradient.
+<div align="center">
+  <img src="assets/banner.png" alt="Zingbus Sentiment Analytics Banner" width="100%" />
+</div>
+
 
 ---
 
