@@ -11,10 +11,6 @@
 
 ---
 
-### 🖼️ **Repository Banner**
-<div align="center">
-  <img src="assets/banner.png" alt="Zingbus Sentiment Analytics Banner" width="100%" />
-</div>
 
 
 ---
