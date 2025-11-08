@@ -70,7 +70,7 @@ It features two complementary dashboards:
 |-----------|------------|
 | ![Sentiment Dashboard](assets/preview_dashboard.png) | ![WordCloud](assets/preview_wordcloud.png) |
 
-> *(You can add your own screenshots here — place them in `assets/` and rename as shown.)*
+
 
 ---
 
