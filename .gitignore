@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+data_raw/
+src/
+dashboards/
+senti.pbix
